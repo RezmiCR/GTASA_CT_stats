@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"ExcerUpd @150k"</Description>
+      <LastState Value="147721" RealAddress="00B7BB7C"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+77BB7C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Fat"</Description>
+          <LastState Value="84" RealAddress="00B7BA54"/>
+          <VariableType>Float</VariableType>
+          <Address>gta_sa.exe+77BA54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Muscle"</Description>
+          <LastState Value="80" RealAddress="00B7BA5C"/>
+          <VariableType>Float</VariableType>
+          <Address>gta_sa.exe+77BA5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"Stamina"</Description>
+          <LastState Value="508" RealAddress="00B7BA58"/>
+          <VariableType>Float</VariableType>
+          <Address>gta_sa.exe+77BA58</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>55</ID>
+              <Description>"OnBike @300k"</Description>
+              <LastState Value="0" RealAddress="00B7BB5C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>gta_sa.exe+77BB5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>57</ID>
+              <Description>"OnFoot @300k"</Description>
+              <LastState Value="2753" RealAddress="00B7BB80"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>gta_sa.exe+77BB80</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"MaxHp Updt @600k"</Description>
+      <LastState Value="280056" RealAddress="00B7BB8C"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+77BB8C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Health dec:2"</Description>
+          <LastState Value="114" RealAddress="11462728"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>gta_sa.exe+771A38</Address>
+          <Offsets>
+            <Offset>540</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"Max Health, kinda"</Description>
+          <LastState Value="689" RealAddress="00B7BA60"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>gta_sa.exe+77BA60</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>52</ID>
+      <Description>"General"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <Address>0</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"OnMission"</Description>
+          <LastState Value="1" RealAddress="00A4C644"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+64C644</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"Stars"</Description>
+          <LastState Value="0" RealAddress="00BACAA0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+7ACAA0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Money"</Description>
+          <LastState Value="1000101" RealAddress="00B7F4D0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+77F4D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Speed"</Description>
+          <LastState Value="0" RealAddress="00B75040"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+775040</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Days"</Description>
+          <LastState Value="9" RealAddress="00B727D4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>gta_sa.exe+7727D4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"Driving Upd @300k"</Description>
+      <LastState Value="0" RealAddress="00B7BB6C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+77BB6C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"Driving Skill"</Description>
+          <LastState Value="20" RealAddress="00B7B720"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>gta_sa.exe+77B720</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Gym Distance"</Description>
+      <LastState Value="2920" RealAddress="00A548A4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+6548A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"Pistol Skill"</Description>
+      <LastState Value="1000" RealAddress="00B7BB14"/>
+      <VariableType>Float</VariableType>
+      <Address>gta_sa.exe+77BB14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Save Menu Openned"</Description>
+      <LastState Value="6" RealAddress="0097ACA4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+57ACA4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"Bycicle Updt @120k"</Description>
+      <LastState Value="0" RealAddress="00B7BB60"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+77BB60</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"Bycicle Skill"</Description>
+          <LastState Value="1000" RealAddress="00B7B838"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>gta_sa.exe+77B838</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>58</ID>
+      <Description>"GymUpdt?"</Description>
+      <LastState Value="2847" RealAddress="00BACAFC"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+7ACAFC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>59</ID>
+      <Description>"^^?"</Description>
+      <LastState Value="1112944565" RealAddress="00A4BFFC"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gta_sa.exe+64BFFC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
